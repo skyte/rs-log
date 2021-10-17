@@ -1,4 +1,4 @@
 # rs-log
-Relative Strength Output for Diff Purposes  
-  
+Daily Generated Relative Strength Stocks Output 
+
 Main repository: https://github.com/skyte/relative-strength
